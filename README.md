@@ -27,7 +27,7 @@ Load test has been conducted with 50 users concurrently accessing the website to
 3. Minimum response time is 283 milliseconds
 4. 99 percentile is less 1543 milliseconds
 
-## Stress Test #1
+## Stress Testing
 
 In this test, more than 100 users have been injected concurrently at a regular interval of 30 seconds for the below transactions. When the concurrent users reached 125, the first error (Internal Server Error Code 500) occurred. Eventually all the transactions started failing. Below is the response time dashboard for the run 1. Similar observations for the run 2 as well.
 
@@ -71,8 +71,6 @@ Load test reveals that the server can handle 50000 transactions per hour with mi
 
 Stress test reveals that the server can handle 125 concurrent users accessing the website. Subsequent increase in the load will fail to fulfill the user&#39;s expectation.
 
-**Next Steps**
+## Next Steps
 
 It is advisable to monitor the performance of CPU, Memory, Network and Disk utilization. To handle more number of users, tuning or scaling the infrastructure is required.
-
-![](RackMultipart20210119-4-1qablza_html_3e8d26981ffda8f7.gif)4
