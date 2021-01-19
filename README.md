@@ -1,13 +1,3 @@
-**# abc.in Performance Test Report**
-
-**Conducted by**
-
-[**WWW.QAINSIGHTS.COM**](http://WWW.QAINSIGHTS.COM/)
-
-**NaveenKumar Namachivayam**
-
-**Tests conducted dates** : 04/15/2019
-
 # Executive Summary
 
 # Objective
